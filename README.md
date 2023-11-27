@@ -3,8 +3,6 @@
 
 # levantar el servicio
 
-cd examen
-
 php -S localhost:7000 -t public
 
 # para dar de alta nuevas provincias por consola
